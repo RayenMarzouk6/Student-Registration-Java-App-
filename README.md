@@ -31,7 +31,8 @@ To set up the database for this application, follow these steps:
 
 ## Usage
 
-1. **Login**: Upon launching the application, users are prompted to enter their credentials (username and password) to access the system.
+1. **Login**: Upon launching the application, users are prompted to enter their credentials (username and password) to access the system.![Capture d'écran 2024-05-24 201609](https://github.com/RayenMarzouk6/Student-Registration-Java-App-/assets/162569033/4e0f7ca7-d5dd-4b9f-8de7-bb22ffea1bbe)
+
 2. **Registration**: Administrators can register new students by entering their details and selecting an image for their photo.
 3. **Deletion**: Administrators can delete students by selecting them from the table and clicking the "Delete" button.
 4. **Search**: Users can search for students by their ID using the search field provided.
