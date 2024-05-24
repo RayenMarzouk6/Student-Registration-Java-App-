@@ -27,9 +27,7 @@ To set up the database for this application, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Capture d'écran 2024-05-24 202605](https://github.com/RayenMarzouk6/Student-Registration-Java-App-/assets/162569033/d85536d5-66c5-4dfc-991f-a19d07cf68fa)
 
 ## Usage
 
