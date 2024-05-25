@@ -24,6 +24,8 @@ To set up the database for this application, follow these steps:
          photo LONGBLOB
      );
      ```
+## logo 
+![Capture d'écran 2024-05-04 210948](https://github.com/RayenMarzouk6/Student-Registration-Java-App-/assets/162569033/937a58f7-ebf3-4be3-a975-d8aa38bd1b61)
 
 ## Screenshots
 
